@@ -1,10 +1,6 @@
 # Project_2_-_Exploratory_Data_Analyses
 This is my repository for my personal project about exploratory data analyses framework using dataset i've collect from youtube data api
 
-## Remove Missing Value
-![Null Value](https://github.com/ahmadrizkik/Project_2_-_Exploratory_Data_Analyses/blob/main/missing_value.png)
-![Drop Null Value](https://github.com/ahmadrizkik/Project_2_-_Exploratory_Data_Analyses/blob/main/drop_missing_value.png)
-
 ## Exploratory Data Analysis Visualization
 ### 10 Highest View
 ![Highest View](https://github.com/ahmadrizkik/Project_2_-_Exploratory_Data_Analyses/blob/main/highest_video_view.png)
